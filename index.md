@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, I'm Ahmad.
 
-Maybe say a some things about yourself.
+This blog is a place for me to talk about goals I'm working towards and things I'm interested in.
 
-Or maybe what you plan to blog about.
+Thanks for visiting, and I hope you enjoy my posts!
