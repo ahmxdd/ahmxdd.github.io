@@ -25,13 +25,13 @@ latest_posts:
 ---
 
 
-Hi! I'm Ahmad Ali, a researcher at the intersection of Computer Science and Biology, currently completing my B.Sc. at Toronto Metropolitan University (August 2026). I am a research assistant with the Biomathematics and Fluids Group, where I study HIV viral rebound dynamics using statistical methods under the supervision of Dr. Kathleen Wilkie.
+Hi! I'm Ahmad Ali, completing my B.Sc. at Toronto Metropolitan University (August 2026). I am a research assistant with the Biomathematics and Fluids Group under the supervision of Dr. Kathleen Wilkie.
 
-My Vision
+<b>My Vision</b>
 
 I am motivated by the challenge of decoding molecular complexity. Solving the fundamental problems of proteomics, material science, and digital twin biology requires a paradigm shift—moving beyond deterministic approximations toward probabilistic AI architectures capable of modeling stochastic systems with high accuracy.
 
-Research
+<b>Research</b>
 
 My work bridges mechanistic modeling and deep learning. In computational biology, I develop predictive models in Julia, utilizing solver optimization and Markov Chain Monte Carlo (MCMC) simulations to quantify uncertainty in viral dynamics.
 
