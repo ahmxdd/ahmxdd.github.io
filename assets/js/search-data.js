@@ -51,15 +51,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-only-post",
+            },{id: "post-my-notes-on-the-nature-of-the-firm-ronald-coase-1937",
         
-          title: "My only post",
+          title: "my notes on the nature of the firm (ronald coase 1937)",
         
-        description: "an example of a blog post",
+        description: "the nature of the firm is really popular but was too hard for me to read. here is a digestible version with some of my thoughts",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/my-first-post/";
+            window.location.href = "/blog/2026/my-first-post/";
           
         },
       },{id: "post-my-only-posttytytyt",
