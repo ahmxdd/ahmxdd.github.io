@@ -51,7 +51,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-notes-on-the-nature-of-the-firm-ronald-coase-1937",
+            },{id: "post-exploring-39-the-bitter-lesson-39-by-richard-sutton-2019",
+        
+          title: "exploring &#39;the bitter lesson&#39; by richard sutton (2019)",
+        
+        description: "just saw a tweet saying i should read this, and it was a little dense in writing. so i rewrote the main points here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/my-first-post-copy/";
+          
+        },
+      },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
+        
+          title: "CS153 Frontier Systems Summer 2026 Lecture 1 notes",
+        
+        description: "i watched all the lectures from CS153 but totally forgot everything. ill consolidate my notes here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cs153lessons/";
+          
+        },
+      },{id: "post-my-notes-on-the-nature-of-the-firm-ronald-coase-1937",
         
           title: "my notes on the nature of the firm (ronald coase 1937)",
         
@@ -60,17 +82,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/my-first-post/";
-          
-        },
-      },{id: "post-my-only-posttytytyt",
-        
-          title: "My only posttytytyt",
-        
-        description: "an example of a blog post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/my-first-post-copy/";
           
         },
       },{id: "books-the-godfather",
