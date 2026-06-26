@@ -51,18 +51,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-exploring-39-the-bitter-lesson-39-by-richard-sutton-2019",
-        
-          title: "exploring &#39;the bitter lesson&#39; by richard sutton (2019)",
-        
-        description: "just saw a tweet saying i should read this, and it was a little dense in writing. so i rewrote the main points here.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/my-first-post-copy/";
-          
-        },
-      },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
+            },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
         
           title: "CS153 Frontier Systems Summer 2026 Lecture 1 notes",
         
@@ -71,6 +60,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/cs153lessons/";
+          
+        },
+      },{id: "post-exploring-39-the-bitter-lesson-39-by-richard-sutton-2019",
+        
+          title: "exploring &#39;the bitter lesson&#39; by richard sutton (2019)",
+        
+        description: "just saw a tweet saying i should read this, and it was a little dense in writing. so i rewrote the main points here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/my-first-post-copy/";
           
         },
       },{id: "post-my-notes-on-the-nature-of-the-firm-ronald-coase-1937",
