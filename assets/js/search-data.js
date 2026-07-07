@@ -51,7 +51,51 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
+            },{id: "post-unified-intelligence-systems-amit-jain-luma-cs153-s2026",
+        
+          title: "Unified intelligence systems - Amit jain luma (CS153 S2026)",
+        
+        description: "Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/amitjainLuma-copy/";
+          
+        },
+      },{id: "post-product-management-in-the-ai-era-n-singhal-from-skip-cs153-s2026",
+        
+          title: "Product management in the AI era (n. singhal from skip) (CS153 S2026)",
+        
+        description: "We talk about the future of the role of product management, as they become so much more productive with AI",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SkipProductmanagement/";
+          
+        },
+      },{id: "post-visual-intelligence-systems-by-andreas-blattman-cs153-s2026",
+        
+          title: "Visual intelligence systems (by andreas blattman) (CS153 S2026)",
+        
+        description: "Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/andreasblackforestcs153/";
+          
+        },
+      },{id: "post-elevenlabs-mati-staniszewski-on-audio-ai-cs153-s2026",
+        
+          title: "ElevenLabs Mati Staniszewski on Audio AI (CS153 S2026)",
+        
+        description: "Mati describes the state of audio AI in 2026, his pathway, and what the company is doing in the future.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/elevenlabscs153/";
+          
+        },
+      },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
         
           title: "CS153 Frontier Systems Summer 2026 Lecture 1 notes",
         
