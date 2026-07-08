@@ -51,7 +51,106 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-unified-intelligence-systems-amit-jain-luma-cs153-s2026",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-theRoadAheadResiliency/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-adviceOnbuildingFronterLab/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-Sam-Altman/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-JensenHuang/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-AmandaAIEthics/";
+          
+        },
+      },{id: "post-the-ai-native-company-y-combinator-cs153-s2026",
+        
+          title: "The AI Native company (Y Combinator) (CS153 S2026)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/TheAINAtiveCompany/";
+          
+        },
+      },{id: "post-the-discipline-of-delivering-value-per-gigawatt-amin-vadhat-cs153-s2026",
+        
+          title: "The Discipline of Delivering Value per Gigawatt (Amin Vadhat) (CS153 S2026)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AminVadhat-copy/";
+          
+        },
+      },{id: "post-ben-horowitz-a16z-venture-capital-systems-network-effects-and-culture-systems-in-ai-cs153-s2026",
+        
+          title: "Ben horowitz (a16z), venture capital systems, network effects, and culture systems in AI...",
+        
+        description: "Ben horowitz is a founder and experienced CEO of a16z, a VC firm",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/a16z/";
+          
+        },
+      },{id: "post-energy-bottlenecks-scott-nolan-from-general-matter-cs153-s2026",
+        
+          title: "Energy bottlenecks (Scott Nolan from General Matter) (CS153 S2026)",
+        
+        description: "How General Matter is filling the missing step from USA&#39;s nuclear energy processing pipeline",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/energybottlenecksScottGeneralMatter/";
+          
+        },
+      },{id: "post-unified-intelligence-systems-amit-jain-luma-cs153-s2026",
         
           title: "Unified intelligence systems - Amit jain luma (CS153 S2026)",
         
