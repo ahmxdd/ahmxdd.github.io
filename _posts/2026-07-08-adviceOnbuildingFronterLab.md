@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Office Hours: How to Build a Frontier AI Lab
+title: "Office Hours: How to Build a Frontier AI Lab"
 date: 2026-07-08 15:30:00-0400
 description: Practical advice on competing with limited resources in frontier AI research.
 categories: frontierSystems

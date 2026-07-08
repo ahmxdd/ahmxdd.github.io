@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Judgment in AI: Amanda Askell at Anthropic
+title: "Designing Judgment in AI: Amanda Askell at Anthropic"
 date: 2026-07-08 15:30:00-0400
 description: Amanda discusses applying ethics and decision theory to align AI behavior.
 categories: frontierSystems

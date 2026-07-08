@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compute Behind Intelligence: Jensen Huang on AI Infrastructure
+title: "Compute Behind Intelligence: Jensen Huang on AI Infrastructure"
 date: 2026-07-08 15:30:00-0400
 description: Jensen discusses code-sign, compute economics, and infrastructure strategy for modern AI.
 categories: frontierSystems

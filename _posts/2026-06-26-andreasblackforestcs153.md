@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Academia to Black Forest Labs: Building Visual Intelligence
+title: "From Academia to Black Forest Labs: Building Visual Intelligence"
 date: 2026-06-26 15:30:00-0400
 description: Andreas shares his path from research to startup execution in visual AI systems.
 categories: frontierSystems

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delivering Intelligence per Gigawatt: Amin Vahdat at Google
+title: "Delivering Intelligence per Gigawatt: Amin Vahdat at Google"
 date: 2026-07-08 15:30:00-0400
 description: Amin explains how Google approaches reliable, efficient AI infrastructure at scale.
 categories: frontierSystems

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The AI-Native Company: Lessons from Y Combinator
+title: "The AI-Native Company: Lessons from Y Combinator"
 date: 2026-07-08 15:30:00-0400
 description: Two YC partners explain operating principles for building high-impact AI-native startups.
 categories: frontierSystems

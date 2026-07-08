@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Road Ahead Requires Resilience: Joe Sullivan on Cybersecurity
+title: "The Road Ahead Requires Resilience: Joe Sullivan on Cybersecurity"
 date: 2026-07-08 15:30:00-0400
 description: Joe Sullivan reflects on cybersecurity leadership, crisis response, and operating in high-stakes environments.
 categories: frontierSystems
