@@ -51,114 +51,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-the-road-ahead-requires-resilience-joe-sullivan-on-cybersecurity",
         
-          title: "",
+          title: "The Road Ahead Requires Resilience: Joe Sullivan on Cybersecurity",
         
-        description: "",
+        description: "Joe Sullivan reflects on cybersecurity leadership, crisis response, and operating in high-stakes environments.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-07-08-theRoadAheadResiliency/";
+            window.location.href = "/blog/2026/theRoadAheadResiliency/";
           
         },
-      },{id: "post-",
+      },{id: "post-office-hours-how-to-build-a-frontier-ai-lab",
         
-          title: "",
+          title: "Office Hours: How to Build a Frontier AI Lab",
         
-        description: "",
+        description: "Practical advice on competing with limited resources in frontier AI research.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-07-08-adviceOnbuildingFronterLab/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-TheAINAtiveCompany/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-Sam-Altman/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-JensenHuang/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-AminVadhat-copy/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-AmandaAIEthics/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-07-energybottlenecksScottGeneralMatter/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-06-26-cs153lessons/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-06-26-andreasblackforestcs153/";
+            window.location.href = "/blog/2026/adviceOnbuildingFronterLab/";
           
         },
       },{id: "post-venture-capital-network-effects-and-ai-culture-with-ben-horowitz",
@@ -170,6 +82,72 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/a16z/";
+          
+        },
+      },{id: "post-the-ai-native-company-lessons-from-y-combinator",
+        
+          title: "The AI-Native Company: Lessons from Y Combinator",
+        
+        description: "Two YC partners explain operating principles for building high-impact AI-native startups.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/TheAINAtiveCompany/";
+          
+        },
+      },{id: "post-scale-agi-and-the-future-of-ai-notes-from-sam-altman",
+        
+          title: "Scale, AGI, and the Future of AI: Notes from Sam Altman",
+        
+        description: "Sam Altman shares short perspectives on AI adoption, products, and scaling.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Sam-Altman/";
+          
+        },
+      },{id: "post-compute-behind-intelligence-jensen-huang-on-ai-infrastructure",
+        
+          title: "Compute Behind Intelligence: Jensen Huang on AI Infrastructure",
+        
+        description: "Jensen discusses code-sign, compute economics, and infrastructure strategy for modern AI.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/JensenHuang/";
+          
+        },
+      },{id: "post-delivering-intelligence-per-gigawatt-amin-vahdat-at-google",
+        
+          title: "Delivering Intelligence per Gigawatt: Amin Vahdat at Google",
+        
+        description: "Amin explains how Google approaches reliable, efficient AI infrastructure at scale.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AminVadhat-copy/";
+          
+        },
+      },{id: "post-designing-judgment-in-ai-amanda-askell-at-anthropic",
+        
+          title: "Designing Judgment in AI: Amanda Askell at Anthropic",
+        
+        description: "Amanda discusses applying ethics and decision theory to align AI behavior.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AmandaAIEthics/";
+          
+        },
+      },{id: "post-energy-bottlenecks-for-ai-scott-nolan-on-general-matter",
+        
+          title: "Energy Bottlenecks for AI: Scott Nolan on General Matter",
+        
+        description: "How General Matter is addressing a key bottleneck in the U.S. nuclear energy supply chain.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/energybottlenecksScottGeneralMatter/";
           
         },
       },{id: "post-toward-unified-intelligence-systems-with-amit-jain-luma",
@@ -205,6 +183,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/elevenlabscs153/";
           
         },
+      },{id: "post-cs153-frontier-systems-lecture-1-notes",
+        
+          title: "CS153 Frontier Systems: Lecture 1 Notes",
+        
+        description: "I watched the CS153 lectures and consolidated the key lessons here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cs153lessons/";
+          
+        },
       },{id: "post-exploring-39-the-bitter-lesson-39-by-richard-sutton-2019",
         
           title: "exploring &#39;the bitter lesson&#39; by richard sutton (2019)",
@@ -225,6 +214,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/my-first-post/";
+          
+        },
+      },{id: "post-from-academia-to-black-forest-labs-building-visual-intelligence",
+        
+          title: "From Academia to Black Forest Labs: Building Visual Intelligence",
+        
+        description: "Andreas shares his path from research to startup execution in visual AI systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/andreasblackforestcs153/";
           
         },
       },{id: "books-the-godfather",
