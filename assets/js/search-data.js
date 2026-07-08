@@ -81,28 +81,6 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-07-08-Sam-Altman/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-07-08-JensenHuang/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
             window.location.href = "/blog/2026/2026-07-08-AmandaAIEthics/";
           
         },
@@ -110,18 +88,40 @@ ninja.data = [{
         
           title: "The AI Native company (Y Combinator) (CS153 S2026)",
         
-        description: "",
+        description: "2 people from YC join us and explain how to make a startup with impact",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/TheAINAtiveCompany/";
           
         },
+      },{id: "post-scale-agi-and-the-future-of-everything-sam-altman-cs153-s2026",
+        
+          title: "Scale, AGI, and the Future of Everything (Sam Altman) (CS153 S2026)",
+        
+        description: "Sam altman gives his short takes on the future of AI",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Sam-Altman/";
+          
+        },
+      },{id: "post-jensen-huang-nvidia-compute-behind-intelligence-cs153-s2026",
+        
+          title: "Jensen Huang Nvidia (Compute behind intelligence) (CS153 S2026)",
+        
+        description: "Jensen joins us today to discuss compute in detail",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/JensenHuang/";
+          
+        },
       },{id: "post-the-discipline-of-delivering-value-per-gigawatt-amin-vadhat-cs153-s2026",
         
           title: "The Discipline of Delivering Value per Gigawatt (Amin Vadhat) (CS153 S2026)",
         
-        description: "",
+        description: "The opposite of Jensen, Amin Vadhat talks about whats happening at Google",
         section: "Posts",
         handler: () => {
           
