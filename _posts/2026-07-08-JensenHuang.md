@@ -2,7 +2,7 @@
 layout: post
 title: Jensen Huang Nvidia (Compute behind intelligence) (CS153 S2026)
 date: 2026-07-08 15:30:00-0400
-description: Amanda has a unique skillset: teaching AI to be good, and using her knowledge from her PhD to do so.
+description: Jensen joins us today to discuss compute in detail
 categories: 
 giscus_comments: false
 related_posts: false

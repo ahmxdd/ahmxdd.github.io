@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Road Ahead: Resilience Required (Joe Sullivan) (CS153 S2026)
+title: Scale, AGI, and the Future of Everything (Sam Altman) (CS153 S2026)
 date: 2026-07-08 15:30:00-0400
-description:
+description: Sam altman gives his short takes on the future of AI
 categories: 
 giscus_comments: false
 related_posts: false

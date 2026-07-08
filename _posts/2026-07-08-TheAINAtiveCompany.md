@@ -2,7 +2,7 @@
 layout: post
 title: The AI Native company (Y Combinator) (CS153 S2026)
 date: 2026-07-08 15:30:00-0400
-description:
+description: 2 people from YC join us and explain how to make a startup with impact
 categories: 
 giscus_comments: false
 related_posts: false
