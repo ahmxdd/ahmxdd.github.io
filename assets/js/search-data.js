@@ -81,128 +81,128 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2026/2026-07-08-TheAINAtiveCompany/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-Sam-Altman/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-JensenHuang/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-07-08-AminVadhat-copy/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2026/2026-07-08-AmandaAIEthics/";
           
         },
-      },{id: "post-the-ai-native-company-y-combinator-cs153-s2026",
+      },{id: "post-",
         
-          title: "The AI Native company (Y Combinator) (CS153 S2026)",
+          title: "",
         
-        description: "2 people from YC join us and explain how to make a startup with impact",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/TheAINAtiveCompany/";
+            window.location.href = "/blog/2026/2026-07-07-energybottlenecksScottGeneralMatter/";
           
         },
-      },{id: "post-scale-agi-and-the-future-of-everything-sam-altman-cs153-s2026",
+      },{id: "post-",
         
-          title: "Scale, AGI, and the Future of Everything (Sam Altman) (CS153 S2026)",
+          title: "",
         
-        description: "Sam altman gives his short takes on the future of AI",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Sam-Altman/";
+            window.location.href = "/blog/2026/2026-06-26-cs153lessons/";
           
         },
-      },{id: "post-jensen-huang-nvidia-compute-behind-intelligence-cs153-s2026",
+      },{id: "post-",
         
-          title: "Jensen Huang Nvidia (Compute behind intelligence) (CS153 S2026)",
+          title: "",
         
-        description: "Jensen joins us today to discuss compute in detail",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/JensenHuang/";
+            window.location.href = "/blog/2026/2026-06-26-andreasblackforestcs153/";
           
         },
-      },{id: "post-the-discipline-of-delivering-value-per-gigawatt-amin-vadhat-cs153-s2026",
+      },{id: "post-venture-capital-network-effects-and-ai-culture-with-ben-horowitz",
         
-          title: "The Discipline of Delivering Value per Gigawatt (Amin Vadhat) (CS153 S2026)",
+          title: "Venture Capital, Network Effects, and AI Culture with Ben Horowitz",
         
-        description: "The opposite of Jensen, Amin Vadhat talks about whats happening at Google",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/AminVadhat-copy/";
-          
-        },
-      },{id: "post-ben-horowitz-a16z-venture-capital-systems-network-effects-and-culture-systems-in-ai-cs153-s2026",
-        
-          title: "Ben horowitz (a16z), venture capital systems, network effects, and culture systems in AI...",
-        
-        description: "Ben horowitz is a founder and experienced CEO of a16z, a VC firm",
+        description: "Ben Horowitz outlines venture-scale strategy, organizational culture, and network effects in AI markets.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/a16z/";
           
         },
-      },{id: "post-energy-bottlenecks-scott-nolan-from-general-matter-cs153-s2026",
+      },{id: "post-toward-unified-intelligence-systems-with-amit-jain-luma",
         
-          title: "Energy bottlenecks (Scott Nolan from General Matter) (CS153 S2026)",
+          title: "Toward Unified Intelligence Systems with Amit Jain (Luma)",
         
-        description: "How General Matter is filling the missing step from USA&#39;s nuclear energy processing pipeline",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/energybottlenecksScottGeneralMatter/";
-          
-        },
-      },{id: "post-unified-intelligence-systems-amit-jain-luma-cs153-s2026",
-        
-          title: "Unified intelligence systems - Amit jain luma (CS153 S2026)",
-        
-        description: "Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.",
+        description: "Amit Jain discusses Luma&#39;s path from 3D capture to unified multimodal intelligence systems.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/amitjainLuma-copy/";
           
         },
-      },{id: "post-product-management-in-the-ai-era-n-singhal-from-skip-cs153-s2026",
+      },{id: "post-product-management-in-the-ai-era-with-nikhyl-singhal-skip",
         
-          title: "Product management in the AI era (n. singhal from skip) (CS153 S2026)",
+          title: "Product Management in the AI Era with Nikhyl Singhal (Skip)",
         
-        description: "We talk about the future of the role of product management, as they become so much more productive with AI",
+        description: "A discussion on how product management is changing as AI increases team productivity.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/SkipProductmanagement/";
           
         },
-      },{id: "post-visual-intelligence-systems-by-andreas-blattman-cs153-s2026",
+      },{id: "post-audio-ai-at-elevenlabs-with-mati-staniszewski",
         
-          title: "Visual intelligence systems (by andreas blattman) (CS153 S2026)",
-        
-        description: "Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/andreasblackforestcs153/";
-          
-        },
-      },{id: "post-elevenlabs-mati-staniszewski-on-audio-ai-cs153-s2026",
-        
-          title: "ElevenLabs Mati Staniszewski on Audio AI (CS153 S2026)",
+          title: "Audio AI at ElevenLabs with Mati Staniszewski",
         
         description: "Mati describes the state of audio AI in 2026, his pathway, and what the company is doing in the future.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/elevenlabscs153/";
-          
-        },
-      },{id: "post-cs153-frontier-systems-summer-2026-lecture-1-notes",
-        
-          title: "CS153 Frontier Systems Summer 2026 Lecture 1 notes",
-        
-        description: "i watched all the lectures from CS153 but totally forgot everything. ill consolidate my notes here.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/cs153lessons/";
           
         },
       },{id: "post-exploring-39-the-bitter-lesson-39-by-richard-sutton-2019",
