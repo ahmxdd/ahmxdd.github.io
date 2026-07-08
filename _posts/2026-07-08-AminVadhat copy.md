@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Discipline of Delivering Value per Gigawatt (Amin Vadhat) (CS153 S2026)
+title: Delivering Intelligence per Gigawatt: Amin Vahdat at Google
 date: 2026-07-08 15:30:00-0400
-description: The opposite of Jensen, Amin Vadhat talks about whats happening at Google
+description: Amin explains how Google approaches reliable, efficient AI infrastructure at scale.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

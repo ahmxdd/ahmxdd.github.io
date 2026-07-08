@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The AI Native company (Y Combinator) (CS153 S2026)
+title: The AI-Native Company: Lessons from Y Combinator
 date: 2026-07-08 15:30:00-0400
-description: 2 people from YC join us and explain how to make a startup with impact
+description: Two YC partners explain operating principles for building high-impact AI-native startups.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false
@@ -28,10 +28,10 @@ We need LLMs and Code to work together, to fill in their weaknesses
 - Code is deterministic
 We use a Skills file, gives the runbook of what the agent or human should do
 - If this file gets too large, use a resolver (basically simplify the skills further and let the LLM reason)
-![alt text](image.png)
+{% include figure.liquid path="assets/img/image.png" class="img-fluid rounded z-depth-1" %}
 
 # so what does the agentic company look like?
-![alt text](image-1.png)
+{% include figure.liquid path="assets/img/image-1.png" class="img-fluid rounded z-depth-1" %}
 
 also without humans you can improve in different ways:
 - capture failures and turn it into eval cases for your AI
@@ -54,4 +54,4 @@ L3 - agent skills. MCP server, and a bunch of typed tools. Use skillify here
 
 # what fields are left that havent been exposed to AI agents
 software engineering is getting oversatured, but here are more options:
-![alt text](image-2.png)
+{% include figure.liquid path="assets/img/image-2.png" class="img-fluid rounded z-depth-1" %}

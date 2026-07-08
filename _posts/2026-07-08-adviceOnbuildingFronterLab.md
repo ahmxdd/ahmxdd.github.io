@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Office Hours: Advice on Building a Frontier AI Lab (CS153 S2026)
+title: Office Hours: How to Build a Frontier AI Lab
 date: 2026-07-08 15:30:00-0400
-description: How can Academia Compete with Industry? What do I do as a college student?
+description: Practical advice on competing with limited resources in frontier AI research.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

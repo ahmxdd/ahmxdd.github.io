@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevenLabs Mati Staniszewski on Audio AI (CS153 S2026)
+title: Audio AI at ElevenLabs with Mati Staniszewski
 date: 2026-06-26 16:55:00-0400
 description: Mati describes the state of audio AI in 2026, his pathway, and what the company is doing in the future.
 categories: frontierSystems

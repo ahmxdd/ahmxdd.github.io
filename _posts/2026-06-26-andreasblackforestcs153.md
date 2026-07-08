@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Visual intelligence systems (by andreas blattman) (CS153 S2026)
-date: 2026-07-07 15:30:00-0400
-description: Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.
+title: From Academia to Black Forest Labs: Building Visual Intelligence
+date: 2026-06-26 15:30:00-0400
+description: Andreas shares his path from research to startup execution in visual AI systems.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

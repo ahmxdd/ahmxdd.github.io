@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Scale, AGI, and the Future of Everything (Sam Altman) (CS153 S2026)
+title: Scale, AGI, and the Future of AI: Notes from Sam Altman
 date: 2026-07-08 15:30:00-0400
-description: Sam altman gives his short takes on the future of AI
+description: Sam Altman shares short perspectives on AI adoption, products, and scaling.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

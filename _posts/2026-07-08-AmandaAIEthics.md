@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Amanda Askell - PHD in ethics and Anthropic (designing judgement)(CS153 S2026)
+title: Designing Judgment in AI: Amanda Askell at Anthropic
 date: 2026-07-08 15:30:00-0400
-description: Amanda has a unique skillset: teaching AI to be good, and using her knowledge from her PhD to do so.
+description: Amanda discusses applying ethics and decision theory to align AI behavior.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

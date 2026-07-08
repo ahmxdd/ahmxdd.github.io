@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Road Ahead: Resilience Required (Joe Sullivan) (CS153 S2026)
+title: The Road Ahead Requires Resilience: Joe Sullivan on Cybersecurity
 date: 2026-07-08 15:30:00-0400
-description: Joe has a heavy background in cyber security. He talks a lot about his philanthropy and how he went to jail even, but I gloss over this. Take a look at his career
+description: Joe Sullivan reflects on cybersecurity leadership, crisis response, and operating in high-stakes environments.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

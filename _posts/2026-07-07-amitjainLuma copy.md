@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Unified intelligence systems - Amit jain luma (CS153 S2026)
+title: Toward Unified Intelligence Systems with Amit Jain (Luma)
 date: 2026-07-07 15:30:00-0400
-description: Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.
+description: Amit Jain discusses Luma's path from 3D capture to unified multimodal intelligence systems.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false

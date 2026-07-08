@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Product management in the AI era (n. singhal from skip) (CS153 S2026)
+title: Product Management in the AI Era with Nikhyl Singhal (Skip)
 date: 2026-07-07 15:30:00-0400
-description: We talk about the future of the role of product management, as they become so much more productive with AI
+description: A discussion on how product management is changing as AI increases team productivity.
 categories: frontierSystems
 giscus_comments: false
 related_posts: false
