@@ -4,7 +4,7 @@ title: Energy bottlenecks (Scott Nolan from General Matter)
  (CS153 S2026)
 date: 2026-07-07 15:30:00-0400
 description: How General Matter is filling the missing step from USA's nuclear energy processing pipeline
-categories: 
+categories: frontierSystems
 giscus_comments: false
 related_posts: false
 ---

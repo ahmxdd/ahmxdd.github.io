@@ -3,7 +3,7 @@ layout: post
 title: Unified intelligence systems - Amit jain luma (CS153 S2026)
 date: 2026-07-07 15:30:00-0400
 description: Andreas talks about visual systems, and his experience from his tiny lab to how his startup is doing.
-categories: 
+categories: frontierSystems
 giscus_comments: false
 related_posts: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The Discipline of Delivering Value per Gigawatt (Amin Vadhat) (CS153 S2026)
 date: 2026-07-08 15:30:00-0400
 description: The opposite of Jensen, Amin Vadhat talks about whats happening at Google
-categories: 
+categories: frontierSystems
 giscus_comments: false
 related_posts: false
 ---
